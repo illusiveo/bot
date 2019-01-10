@@ -255,4 +255,4 @@ if (message.content.startsWith(PREFIX + 'setavatar')) {
    message.channel.sendMessage(`Avatar Changed Successfully To **${argresult}**`);
 }
 });
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NTMwNzA3OTY1OTU1NTM4OTU0.DxjVyQ.0Z5MqGvBB4fmv7O5QI1pWhHvMxc);
